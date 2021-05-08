@@ -14,7 +14,9 @@ The bot currently has Norwegian commands and responses.
 - Npm
 
 ### Usage
-First make a .env file in the directory and make a variable called DISCORD_BOT_TOKEN.
+1. Run npm install on the directory to get the required modules
+
+2. Make a .env file in the directory and make a variable called DISCORD_BOT_TOKEN.
 Example:
 ```
 DISCORD_BOT_TOKEN = <bot token here>
